@@ -1,6 +1,7 @@
 <?php
 
 include'config.php';
+include'config.php';
 if($_REQUEST['id'] )  //data Read or select
 {
     if($_REQUEST['id'])
