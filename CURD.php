@@ -1,7 +1,12 @@
 <?php
 
 include'config.php';
+<<<<<<< HEAD
 include'config.php';
+=======
+include'edit_payment_details.php';
+// zxcvbnm,
+>>>>>>> trying-to-work-with-branch
 if($_REQUEST['id'] )  //data Read or select
 {
     if($_REQUEST['id'])
