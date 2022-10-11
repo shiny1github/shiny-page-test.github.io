@@ -1,6 +1,7 @@
 <?php
 
 include'config.php';
+include'edit_payment_details.php';
 // zxcvbnm,
 if($_REQUEST['id'] )  //data Read or select
 {
