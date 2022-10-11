@@ -53,7 +53,7 @@ if($_POST['save'] )
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Bootstrap CSS -->
+    <!-- Bootstrap CSS ------->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="style2.css">
@@ -63,7 +63,7 @@ if($_POST['save'] )
 
 <body class="bg-dark text-light">
     <h2 style="text-align: center;"> Student Registration Form</h2>
-    <!-- form enctype="multipart/form-data"  -->
+    <!-- form enctype="multipart/form-data"  ------->
 
     <form action="" name="form" method="post" enctype="multipart/form-data" onsubmit=" return valid()"
         class=" mx-auto mt-3" style="width:650px">
