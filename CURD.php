@@ -3,7 +3,8 @@
 include'config.php';
 <<<<<<< HEAD
 include'config.php';
-=======
+// =======2345678
+// nothing to chnge
 include'edit_payment_details.php';
 // zxcvbnm,
 >>>>>>> trying-to-work-with-branch
